@@ -18,6 +18,10 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" >
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section, main {
@@ -426,7 +430,7 @@ input[type=radio]:checked + label {
 }
 
 .pricing-features {
-	width: 480px;
+	width: 600px;
 }
 
 .pricing-features:after {
